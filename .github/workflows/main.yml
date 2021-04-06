@@ -8,5 +8,5 @@ jobs:
       uses: roots/issue-closer@v1.1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-close-message: "@${issue.user.login} this issue was automatically closed because it did not follow the issue template"
+        issue-close-message: "@${issue.user.login} Your issue was closed becuase it was a url. The redirect link will still work (at http://url.neumatic.ml/[issue_id]). If you have any actual issues with the repo, do not add a url to them, as they will be closed. Thank you!"
         issue-pattern: "http"
