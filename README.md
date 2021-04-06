@@ -1,4 +1,5 @@
 # url.neumatic.ml
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/neumaticc/url?color=purple&label=URLS)
 - a pretty easy to use url shortener  
 - originally by [nelsontky](https://github.com/nelsontky/) and forked from [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener)  
 ## how it works
